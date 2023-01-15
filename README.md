@@ -7,3 +7,4 @@ My solutions for the exercises in Android Developer Courses
 | [ComposeArticle](android-basics-compose/ComposeArticle) | <img style="height: 300px" src ="android-basics-compose/ComposeArticle/preview.png"> |
 | [TaskManager](android-basics-compose/TaskManager) | <img style="height: 300px" src ="android-basics-compose/TaskManager/preview.png"> |
 | [ComposeQuadrant](android-basics-compose/ComposeQuadrant) | <img style="height: 300px" src ="android-basics-compose/ComposeQuadrant/preview.png"> |
+| [BusinessCard](android-basics-compose/BusinessCard) | <img style="height: 300px" src ="android-basics-compose/BusinessCard/preview.png"> |
