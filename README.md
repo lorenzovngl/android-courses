@@ -8,3 +8,4 @@ My solutions for the exercises in Android Developer Courses
 | [TaskManager](android-basics-compose/unit-1/TaskManager) | <img style="height: 300px" src ="android-basics-compose/unit-1/TaskManager/preview.png"> |
 | [ComposeQuadrant](android-basics-compose/unit-1/ComposeQuadrant) | <img style="height: 300px" src ="android-basics-compose/unit-1/ComposeQuadrant/preview.png"> |
 | [BusinessCard](android-basics-compose/unit-1/BusinessCard) | <img style="height: 300px" src ="android-basics-compose/unit-1/BusinessCard/preview.png"> |
+| [Dice Roller](android-basics-compose/unit-2/DiceRoller) | <img style="height: 300px" src ="android-basics-compose/unit-2/DiceRoller/preview.png"> |
